@@ -1,0 +1,12 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "repository": "https://github.com/spacebromx/starwars-names.git",
+  "author": "Alan Medina <realconect@gmail.com> (https://alanmedina.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
